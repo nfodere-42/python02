@@ -1,5 +1,5 @@
 # Python Module 02
-<img src="images/logo_python_02.png" width="128" hegiht="auto">
+<img src="images/logo_python02.png" width="128" hegiht="auto">
 
 ## Description
 Python Module 02 is the third Python module at 42 school. Here you learn to work with errors.
