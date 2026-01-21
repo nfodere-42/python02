@@ -4,7 +4,4 @@
 ## Description
 Python Module 02 is the third Python module at 42 school. Here you learn to work with errors.
 
-## Exercices description
-*Working in this project...*
-
 ***This project has been created as part of the 42 curriculum by Néo Foderé de Frutos (nfodere-), a student at 42 Barcelona***
